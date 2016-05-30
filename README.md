@@ -24,7 +24,7 @@
 <li/>EcludianDistanceColorComponents: Ecludian distance between the RGB.
 </ol>
 
-<strong>UI<strong.>
+<strong>UI<strong/>
 <br/>Using WPF, the user is greeted with:
 ![alt tag](https://raw.githubusercontent.com/ZGTR/Octree-Implementation/ScreenShots/master/Picture0.png)
 
