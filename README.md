@@ -17,9 +17,9 @@
 
 <strong>Mapping Functions in Images</strong>
 <ol>
-<li/>ColorComponent: distance according to R || G || B.
-<li/>ColorComponentsSum: distance according to R && G && B.
-<li/>ColorWeightedComponentSum: distance according to w_r * R && w_g * G && w_b * B. You can play with weights as you like. Humans eyes catches R the most though. 
+<li/>ColorComponent: distance according to R OR G OR B.
+<li/>ColorComponentsSum: distance according to R AND G AND B.
+<li/>ColorWeightedComponentSum: distance according to w_r * R AND w_g * G AND w_b * B. You can play with weights as you like. Humans eyes catches R the most though. 
 <li/>EcludianDistanceARGB: Ecludian distance between the sums of RGB.
 <li/>EcludianDistanceColorComponents: Ecludian distance between the RGB.
 </ol>
