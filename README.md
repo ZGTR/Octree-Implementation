@@ -16,13 +16,11 @@
 ![alt tag](https://raw.githubusercontent.com/ZGTR/Octree-Implementation/ScreenShots/master/Picture_0.png)
 
 <strong>Mapping Functions in Images</strong>
-<ol>
 <li/>ColorComponent: distance according to R || G || B.
 <li/>ColorComponentsSum: distance according to R && G && B.
 <li/>ColorWeightedComponentSum: distance according to w_r * R && w_g * G && w_b * B. You can play with weights as you like. Humans eyes catches R the most though. 
 <li/>EcludianDistanceARGB: Ecludian distance between the sums of RGB.
 <li/>EcludianDistanceColorComponents: Ecludian distance between the RGB.
-</ol>
 
 <strong>UI<strong/>
 <br/>Using WPF, the user is greeted with:
