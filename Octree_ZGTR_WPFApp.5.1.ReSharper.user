@@ -1,0 +1,697 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="livetemplates.csharp.usevar">False</setting>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="6C67C1D8-35D4-44A8-8362-5BF58997F4F7/d:Properties/f:AssemblyInfo.cs" caret="820" fromTop="14" />
+      <File id="4892FDC0-6267-433E-8C28-11F2C3DD8B44/d:Properties/f:AssemblyInfo.cs" caret="846" fromTop="14" />
+      <File id="4892FDC0-6267-433E-8C28-11F2C3DD8B44/d:Properties/f:Resources.resx" caret="5349" fromTop="15" />
+      <File id="4892FDC0-6267-433E-8C28-11F2C3DD8B44/f:App.xaml" caret="375" fromTop="7" />
+      <File id="4892FDC0-6267-433E-8C28-11F2C3DD8B44/f:ExpressionDark.xaml" caret="0" fromTop="0" />
+      <File id="4892FDC0-6267-433E-8C28-11F2C3DD8B44/f:App.xaml.cs" caret="0" fromTop="0" />
+      <File id="4892FDC0-6267-433E-8C28-11F2C3DD8B44/d:Engine/d:OctreeTree/f:Node.cs" caret="4603" fromTop="138" />
+      <File id="4892FDC0-6267-433E-8C28-11F2C3DD8B44/d:Engine/d:EncodingPackage/f:EncodingConverter.cs" caret="7730" fromTop="223" />
+      <File id="4892FDC0-6267-433E-8C28-11F2C3DD8B44/d:Engine/f:HelperModule.cs" caret="818" fromTop="0" />
+      <File id="4892FDC0-6267-433E-8C28-11F2C3DD8B44/d:Engine/d:OctreeTree/d:OctreeTypes/d:Balanced/f:OctreeBalancedLeastCAllCollapsing.cs" caret="1246" fromTop="12" />
+      <File id="4892FDC0-6267-433E-8C28-11F2C3DD8B44/d:Engine/d:OctreeTree/d:OctreeTypes/d:Balanced/f:OctreeBalancedLeastC7LCollapsing.cs" caret="171" fromTop="0" />
+      <File id="4892FDC0-6267-433E-8C28-11F2C3DD8B44/d:Engine/d:OctreeTree/d:OctreeTypes/d:AbstractOctree/f:Octree.cs" caret="2503" fromTop="8" />
+      <File id="4892FDC0-6267-433E-8C28-11F2C3DD8B44/d:Engine/d:OctreeTree/d:OctreeTypes/d:UnBalanced/f:OctreeUnBalancedLeastChilds.cs" caret="4307" fromTop="8" />
+      <File id="4892FDC0-6267-433E-8C28-11F2C3DD8B44/d:Engine/d:OctreeTree/d:MappingFunctions/f:ColorComponentType.cs" caret="238" fromTop="10" />
+      <File id="4892FDC0-6267-433E-8C28-11F2C3DD8B44/d:Engine/d:OctreeTree/d:MappingFunctions/f:ColorWeightedComponentSum.cs" caret="509" fromTop="10" />
+      <File id="4892FDC0-6267-433E-8C28-11F2C3DD8B44/d:Engine/d:OctreeTree/d:MappingFunctions/f:EcludianDistanceColorComponents.cs" caret="760" fromTop="17" />
+      <File id="4892FDC0-6267-433E-8C28-11F2C3DD8B44/d:Engine/d:OctreeTree/d:MappingFunctions/f:EcludianDistanceARGB.cs" caret="412" fromTop="11" />
+      <File id="4892FDC0-6267-433E-8C28-11F2C3DD8B44/d:Engine/d:OctreeTree/d:MappingFunctions/f:IMappingFunction.cs" caret="193" fromTop="7" />
+      <File id="4892FDC0-6267-433E-8C28-11F2C3DD8B44/d:Engine/d:OctreeTree/d:MappingFunctions/f:ColorComponent.cs" caret="574" fromTop="11" />
+      <File id="4892FDC0-6267-433E-8C28-11F2C3DD8B44/d:Engine/d:OctreeTree/d:MappingFunctions/f:ColorComponentsSum.cs" caret="432" fromTop="12" />
+      <File id="4892FDC0-6267-433E-8C28-11F2C3DD8B44/d:Engine/d:OctreeTree/d:OctreeTypes/d:Balanced/f:OctreeBalancedLeastVAllSidesCollapsing.cs" caret="201" fromTop="5" />
+      <File id="4892FDC0-6267-433E-8C28-11F2C3DD8B44/d:Engine/d:OctreeTree/d:OctreeTypes/d:UnBalanced/f:OctreeUnBalancedLeastV1SideCollapsing.cs" caret="2396" fromTop="66" />
+      <File id="4892FDC0-6267-433E-8C28-11F2C3DD8B44/d:Engine/d:OctreeTree/d:OctreeTypes/d:UnBalanced/f:OctreeUnBalancedLeastVAllSidesCollapsing.cs" caret="348" fromTop="10" />
+      <File id="4892FDC0-6267-433E-8C28-11F2C3DD8B44/d:Engine/d:GUI/f:GUIController.cs" caret="3383" fromTop="15" />
+      <File id="6C67C1D8-35D4-44A8-8362-5BF58997F4F7/f:Program.cs" caret="1197" fromTop="19" />
+      <File id="4892FDC0-6267-433E-8C28-11F2C3DD8B44/f:MainWindow.xaml" caret="2350" fromTop="4" />
+      <File id="4892FDC0-6267-433E-8C28-11F2C3DD8B44/d:Engine/d:OctreeTree/f:ColorTable.cs" caret="3170" fromTop="9" />
+      <File id="4892FDC0-6267-433E-8C28-11F2C3DD8B44/d:Engine/d:ImageController/f:ImageController.cs" caret="5910" fromTop="108" />
+      <File id="4892FDC0-6267-433E-8C28-11F2C3DD8B44/f:MainWindow.xaml.cs" caret="3634" fromTop="17" />
+      <File id="4892FDC0-6267-433E-8C28-11F2C3DD8B44/d:Engine/d:GUI/f:ImageContainer.cs" caret="1182" fromTop="10" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="4892FDC0-6267-433E-8C28-11F2C3DD8B44/f:MainWindow.xaml.cs" caret="1072" fromTop="17" />
+      <File id="4892FDC0-6267-433E-8C28-11F2C3DD8B44/f:MainWindow.xaml.cs" caret="2315" fromTop="8" />
+      <File id="4892FDC0-6267-433E-8C28-11F2C3DD8B44/f:MainWindow.xaml.cs" caret="2552" fromTop="13" />
+      <File id="4892FDC0-6267-433E-8C28-11F2C3DD8B44/d:Engine/d:OctreeTree/f:ColorTable.cs" caret="1212" fromTop="15" />
+      <File id="4892FDC0-6267-433E-8C28-11F2C3DD8B44/d:Engine/d:OctreeTree/f:ColorTable.cs" caret="3636" fromTop="29" />
+      <File id="4892FDC0-6267-433E-8C28-11F2C3DD8B44/d:Engine/d:OctreeTree/f:ColorTable.cs" caret="2674" fromTop="12" />
+      <File id="4892FDC0-6267-433E-8C28-11F2C3DD8B44/d:Engine/d:OctreeTree/f:ColorTable.cs" caret="3349" fromTop="19" />
+      <File id="4892FDC0-6267-433E-8C28-11F2C3DD8B44/f:MainWindow.xaml" caret="7575" fromTop="4" />
+      <File id="4892FDC0-6267-433E-8C28-11F2C3DD8B44/f:MainWindow.xaml" caret="7144" fromTop="3" />
+      <File id="4892FDC0-6267-433E-8C28-11F2C3DD8B44/f:MainWindow.xaml.cs" caret="2580" fromTop="10" />
+      <File id="4892FDC0-6267-433E-8C28-11F2C3DD8B44/d:Engine/d:GUI/f:ImageContainer.cs" caret="2009" fromTop="25" />
+      <File id="4892FDC0-6267-433E-8C28-11F2C3DD8B44/f:MainWindow.xaml" caret="2361" fromTop="2" />
+      <File id="4892FDC0-6267-433E-8C28-11F2C3DD8B44/f:MainWindow.xaml" caret="3465" fromTop="1" />
+      <File id="4892FDC0-6267-433E-8C28-11F2C3DD8B44/f:MainWindow.xaml" caret="4519" fromTop="6" />
+      <File id="4892FDC0-6267-433E-8C28-11F2C3DD8B44/d:Engine/d:GUI/f:ImageContainer.cs" caret="3068" fromTop="16" />
+      <File id="4892FDC0-6267-433E-8C28-11F2C3DD8B44/d:Engine/d:GUI/f:ImageContainer.cs" caret="1807" fromTop="6" />
+      <File id="4892FDC0-6267-433E-8C28-11F2C3DD8B44/f:MainWindow.xaml.cs" caret="3677" fromTop="17" />
+      <File id="4892FDC0-6267-433E-8C28-11F2C3DD8B44/d:Engine/d:GUI/f:ImageContainer.cs" caret="3104" fromTop="18" />
+      <File id="4892FDC0-6267-433E-8C28-11F2C3DD8B44/d:Engine/d:OctreeTree/f:ColorTable.cs" caret="720" fromTop="7" />
+      <File id="4892FDC0-6267-433E-8C28-11F2C3DD8B44/d:Engine/d:GUI/f:ImageContainer.cs" caret="3068" fromTop="16" />
+      <File id="4892FDC0-6267-433E-8C28-11F2C3DD8B44/d:Engine/d:GUI/f:ImageContainer.cs" caret="3068" fromTop="16" />
+      <File id="4892FDC0-6267-433E-8C28-11F2C3DD8B44/d:Engine/d:GUI/f:ImageContainer.cs" caret="2101" fromTop="7" />
+      <File id="4892FDC0-6267-433E-8C28-11F2C3DD8B44/d:Engine/d:GUI/f:ImageContainer.cs" caret="129" fromTop="2" />
+      <File id="4892FDC0-6267-433E-8C28-11F2C3DD8B44/d:Engine/d:GUI/f:ImageContainer.cs" caret="48" fromTop="0" />
+      <File id="4892FDC0-6267-433E-8C28-11F2C3DD8B44/d:Engine/d:GUI/f:ImageContainer.cs" caret="637" fromTop="13" />
+      <File id="4892FDC0-6267-433E-8C28-11F2C3DD8B44/d:Engine/d:GUI/f:ImageContainer.cs" caret="1361" fromTop="0" />
+      <File id="4892FDC0-6267-433E-8C28-11F2C3DD8B44/d:Engine/d:GUI/f:ImageContainer.cs" caret="3068" fromTop="23" />
+      <File id="4892FDC0-6267-433E-8C28-11F2C3DD8B44/d:Engine/d:GUI/f:ImageContainer.cs" caret="2359" fromTop="11" />
+      <File id="4892FDC0-6267-433E-8C28-11F2C3DD8B44/d:Engine/d:GUI/f:ImageContainer.cs" caret="2862" fromTop="17" />
+      <File id="4892FDC0-6267-433E-8C28-11F2C3DD8B44/d:Engine/d:GUI/f:ImageContainer.cs" caret="1182" fromTop="10" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="Convert`0" priority="0" />
+      <Item value="byte" priority="0" />
+      <Item value="colorArr" priority="1" />
+      <Item value="i" priority="21" />
+      <Item value="Color`0" priority="17" />
+      <Item value="GetLength`0" priority="0" />
+      <Item value="new" priority="102" />
+      <Item value="Octree_ZGTR_WPFApp" priority="1" />
+      <Item value="try" priority="7" />
+      <Item value="int" priority="63" />
+      <Item value="return" priority="41" />
+      <Item value="null" priority="24" />
+      <Item value="string" priority="27" />
+      <Item value="imageMatrix" priority="0" />
+      <Item value="Color" priority="19" />
+      <Item value="currentPixelColor" priority="0" />
+      <Item value="Node" priority="14" />
+      <Item value="private" priority="17" />
+      <Item value="this" priority="79" />
+      <Item value="current3Bits" priority="6" />
+      <Item value="Node`0" priority="34" />
+      <Item value="_baseNode" priority="4" />
+      <Item value="uint" priority="1" />
+      <Item value="level" priority="1" />
+      <Item value="currentNode" priority="7" />
+      <Item value="foreach" priority="32" />
+      <Item value="if" priority="45" />
+      <Item value="_children" priority="0" />
+      <Item value="node" priority="53" />
+      <Item value="String`0" priority="4" />
+      <Item value="nodeToReturn" priority="4" />
+      <Item value="break" priority="11" />
+      <Item value="HelperModule`0" priority="13" />
+      <Item value="indexToSpawn" priority="3" />
+      <Item value="from" priority="22" />
+      <Item value="where" priority="25" />
+      <Item value="childNode" priority="2" />
+      <Item value="select" priority="22" />
+      <Item value="Octree`0" priority="12" />
+      <Item value="else" priority="19" />
+      <Item value="bool" priority="5" />
+      <Item value="false" priority="8" />
+      <Item value="isAdded" priority="0" />
+      <Item value="true" priority="11" />
+      <Item value="isSpawned" priority="0" />
+      <Item value="List" priority="35" />
+      <Item value="child" priority="15" />
+      <Item value="ConsoleColor`0" priority="0" />
+      <Item value="SystemColors`0" priority="1" />
+      <Item value="rComponentSum" priority="0" />
+      <Item value="availableChildNodes" priority="0" />
+      <Item value="while" priority="5" />
+      <Item value="ParallelEnumerable`0" priority="0" />
+      <Item value="currentBaseNodeUpward" priority="0" />
+      <Item value="StringBuilder`0" priority="3" />
+      <Item value="StringBuilder" priority="2" />
+      <Item value="newChildColor" priority="1" />
+      <Item value="public" priority="15" />
+      <Item value="Collections" priority="0" />
+      <Item value="treeChildCounter" priority="0" />
+      <Item value="continue" priority="1" />
+      <Item value="List&lt;Node&gt;" priority="17" />
+      <Item value="listOfNodes" priority="0" />
+      <Item value="nodeToCollapse" priority="4" />
+      <Item value="Count`1" priority="18" />
+      <Item value="node1" priority="10" />
+      <Item value="Clone`0" priority="0" />
+      <Item value="Console`0" priority="4" />
+      <Item value="nodeInChildren" priority="2" />
+      <Item value="for" priority="19" />
+      <Item value="listOfNodesToCollapse" priority="2" />
+      <Item value="_octree" priority="5" />
+      <Item value="LinkedListNode" priority="2" />
+      <Item value="s" priority="1" />
+      <Item value="str" priority="4" />
+      <Item value="zerosToAdd" priority="0" />
+      <Item value="throw" priority="0" />
+      <Item value="Exception" priority="0" />
+      <Item value="Children" priority="0" />
+      <Item value="Count`0" priority="0" />
+      <Item value="nodesHaveChilds" priority="3" />
+      <Item value="Min`2" priority="2" />
+      <Item value="object" priority="2" />
+      <Item value="availableChilds" priority="0" />
+      <Item value="min" priority="0" />
+      <Item value="_leavesNum" priority="0" />
+      <Item value="value" priority="2" />
+      <Item value="strCounter" priority="0" />
+      <Item value="Dictionary" priority="2" />
+      <Item value="_table" priority="4" />
+      <Item value="Dictionary&lt;int,string&gt;" priority="0" />
+      <Item value="leafsNodes" priority="2" />
+      <Item value="ColorTable" priority="1" />
+      <Item value="levelWanted" priority="1" />
+      <Item value="var" priority="2" />
+      <Item value="ColorTable`0" priority="2" />
+      <Item value="ToList`1" priority="2" />
+      <Item value="Image`0" priority="3" />
+      <Item value="image" priority="6" />
+      <Item value="Bitmap`0" priority="3" />
+      <Item value="imageURI" priority="1" />
+      <Item value="Image" priority="1" />
+      <Item value="index" priority="2" />
+      <Item value="rString" priority="0" />
+      <Item value="originColor" priority="9" />
+      <Item value="nextNode" priority="0" />
+      <Item value="as" priority="4" />
+      <Item value="closestNode" priority="0" />
+      <Item value="listOfIndecies" priority="0" />
+      <Item value="closestIndex" priority="0" />
+      <Item value="octree" priority="2" />
+      <Item value="STAThread" priority="0" />
+      <Item value="ref" priority="9" />
+      <Item value="leavesNum" priority="0" />
+      <Item value="nodeChild" priority="4" />
+      <Item value="listToReturn" priority="2" />
+      <Item value="listOfAllChilds" priority="5" />
+      <Item value="color" priority="9" />
+      <Item value="childCount" priority="0" />
+      <Item value="redAvg" priority="0" />
+      <Item value="greenAvg" priority="0" />
+      <Item value="blueAvg" priority="0" />
+      <Item value="TimeSpan`0" priority="0" />
+      <Item value="newColor" priority="1" />
+      <Item value="Octree" priority="3" />
+      <Item value="baseNode" priority="1" />
+      <Item value="levelId" priority="0" />
+      <Item value="IDictionary" priority="0" />
+      <Item value="FileStyleUriParser`0" priority="0" />
+      <Item value="DateTime`0" priority="5" />
+      <Item value="t1" priority="1" />
+      <Item value="t2" priority="1" />
+      <Item value="Bitmap" priority="2" />
+      <Item value="IndexOutOfRangeException`0" priority="0" />
+      <Item value="indexOfClosestColor" priority="1" />
+      <Item value="Math`0" priority="6" />
+      <Item value="Select`2" priority="2" />
+      <Item value="double" priority="1" />
+      <Item value="closestColor" priority="4" />
+      <Item value="minError" priority="1" />
+      <Item value="Single`0" priority="0" />
+      <Item value="rComponentDiff" priority="0" />
+      <Item value="static" priority="2" />
+      <Item value="void" priority="4" />
+      <Item value="bitmapForm" priority="2" />
+      <Item value="_listOfLevels" priority="8" />
+      <Item value="nodeSpawned" priority="2" />
+      <Item value="nodeToAdd" priority="6" />
+      <Item value="indexToAddIn" priority="3" />
+      <Item value="List&lt;Hasan&gt;" priority="0" />
+      <Item value="Hasan" priority="2" />
+      <Item value="Hasan`0" priority="0" />
+      <Item value="hasan2" priority="1" />
+      <Item value="SetValue`0" priority="1" />
+      <Item value="j" priority="2" />
+      <Item value="Reverse`1" priority="0" />
+      <Item value="totalTimeCollapse" priority="0" />
+      <Item value="DateTime" priority="0" />
+      <Item value="SpawnChildNode`0" priority="0" />
+      <Item value="protected" priority="4" />
+      <Item value="abstract" priority="1" />
+      <Item value="OctreeLevel7ChildsCollapsing`0" priority="1" />
+      <Item value="InvalidProgramException`0" priority="0" />
+      <Item value="AddRange`0" priority="1" />
+      <Item value="listOfLevels" priority="0" />
+      <Item value="numOfLeavesWanted" priority="1" />
+      <Item value="minCount" priority="1" />
+      <Item value="ObjectDisposedException`0" priority="0" />
+      <Item value="catch" priority="4" />
+      <Item value="Exception`0" priority="4" />
+      <Item value="OctreeAllChildsCollapsing`0" priority="0" />
+      <Item value="period1" priority="0" />
+      <Item value="period2" priority="0" />
+      <Item value="Dictionary&lt;string,int&gt;" priority="0" />
+      <Item value="numOfLeafes" priority="0" />
+      <Item value="_stringToIntDic" priority="0" />
+      <Item value="_intToStringDic" priority="1" />
+      <Item value="intIn" priority="0" />
+      <Item value="EncodingConverter`0" priority="3" />
+      <Item value="encoding" priority="0" />
+      <Item value="EncodingConverter" priority="1" />
+      <Item value="stringIn" priority="3" />
+      <Item value="FixString`0" priority="2" />
+      <Item value="List&lt;List&lt;Node&gt;&gt;" priority="0" />
+      <Item value="nodeBase" priority="0" />
+      <Item value="listOfAllChildsAtLevel7" priority="2" />
+      <Item value="Dictionary&lt;int,List&lt;Node&gt;&gt;" priority="1" />
+      <Item value="children" priority="1" />
+      <Item value="System" priority="1" />
+      <Item value="IServiceProvider`0" priority="0" />
+      <Item value="IO" priority="1" />
+      <Item value="MemoryMappedFiles" priority="1" />
+      <Item value="IOException`0" priority="0" />
+      <Item value="MemoryMappedFile`0" priority="0" />
+      <Item value="Runtime" priority="0" />
+      <Item value="InteropServices" priority="0" />
+      <Item value="Marshal`0" priority="0" />
+      <Item value="ConvertBinToInt`0" priority="0" />
+      <Item value="dummylistOfAllChilds" priority="0" />
+      <Item value="keyValuePair" priority="3" />
+      <Item value="key" priority="0" />
+      <Item value="minKey" priority="0" />
+      <Item value="S1`0" priority="2" />
+      <Item value="S2`0" priority="0" />
+      <Item value="orderby" priority="2" />
+      <Item value="AppDomainManagerInitializationOptions`0" priority="0" />
+      <Item value="currentLevel" priority="0" />
+      <Item value="isFound" priority="0" />
+      <Item value="ArrayList" priority="0" />
+      <Item value="Object`0" priority="0" />
+      <Item value="_isDead" priority="0" />
+      <Item value="arr" priority="0" />
+      <Item value="Last`1" priority="0" />
+      <Item value="listOfKeys" priority="0" />
+      <Item value="List&lt;int&gt;" priority="0" />
+      <Item value="Where`1" priority="0" />
+      <Item value="Windows" priority="0" />
+      <Item value="ChartPlotter`0" priority="0" />
+      <Item value="chartPlotter" priority="2" />
+      <Item value="ChartPlotter" priority="0" />
+      <Item value="char" priority="0" />
+      <Item value="LineGraph`0" priority="0" />
+      <Item value="LineGraph" priority="1" />
+      <Item value="Point`0" priority="0" />
+      <Item value="Point" priority="3" />
+      <Item value="line" priority="0" />
+      <Item value="Plotter`0" priority="1" />
+      <Item value="linegraph" priority="1" />
+      <Item value="lineGraph" priority="0" />
+      <Item value="ie" priority="0" />
+      <Item value="Microsoft" priority="0" />
+      <Item value="Research" priority="0" />
+      <Item value="DynamicDataDisplay" priority="0" />
+      <Item value="DataSources" priority="0" />
+      <Item value="IPointDataSource`0" priority="1" />
+      <Item value="EnumerableDataSource" priority="0" />
+      <Item value="EnumerableDataSource&lt;double&gt;" priority="0" />
+      <Item value="EnumerablePointEnumerator" priority="0" />
+      <Item value="EnumerablePointEnumerator&lt;Point&gt;" priority="0" />
+      <Item value="PointExtensions`0" priority="0" />
+      <Item value="p" priority="0" />
+      <Item value="ir" priority="0" />
+      <Item value="Colors`0" priority="0" />
+      <Item value="base" priority="3" />
+      <Item value="override" priority="4" />
+      <Item value="_isLeaf" priority="0" />
+      <Item value="OctreeUnBalanced`0" priority="0" />
+      <Item value="listOfAllChild" priority="0" />
+      <Item value="Length" priority="0" />
+      <Item value="indexToReturn" priority="0" />
+      <Item value="OctreeTypes" priority="1" />
+      <Item value="AbstractOctree" priority="0" />
+      <Item value="nodeIn7WithLeastVisiting" priority="0" />
+      <Item value="FormatException`0" priority="0" />
+      <Item value="parentOfLeastVNode" priority="0" />
+      <Item value="nodeToCutFromOutward" priority="1" />
+      <Item value="GetAllChildsDown`0" priority="0" />
+      <Item value="GetListOfChildFreed`0" priority="0" />
+      <Item value="numOfVisiting" priority="0" />
+      <Item value="GetVisitingNum`0" priority="0" />
+      <Item value="currentNum" priority="0" />
+      <Item value="bitmap" priority="2" />
+      <Item value="ColorComponentType`0" priority="2" />
+      <Item value="colorComponentType" priority="1" />
+      <Item value="Green" priority="0" />
+      <Item value="_colorComponentType" priority="0" />
+      <Item value="Red" priority="0" />
+      <Item value="function" priority="2" />
+      <Item value="IMappingFunction`0" priority="1" />
+      <Item value="ColorComponent`0" priority="1" />
+      <Item value="ColorComponentsSum`0" priority="0" />
+      <Item value="ColorWeightedComponentSum`0" priority="0" />
+      <Item value="SaveFileDialog`0" priority="0" />
+      <Item value="MainWindow`0" priority="0" />
+      <Item value="mainWindow" priority="0" />
+      <Item value="Horizontal" priority="0" />
+      <Item value="textBoxColorTableDim" priority="0" />
+      <Item value="GUIController`0" priority="0" />
+      <Item value="_currentOctree" priority="0" />
+      <Item value="_colorTable" priority="0" />
+      <Item value="Thickness" priority="2" />
+      <Item value="_image" priority="1" />
+      <Item value="Border`0" priority="0" />
+      <Item value="Border" priority="0" />
+      <Item value="border" priority="2" />
+      <Item value="Center" priority="0" />
+      <Item value="Button`0" priority="0" />
+      <Item value="Button" priority="0" />
+      <Item value="buttonExtract" priority="1" />
+      <Item value="BitmapEffectProperty" priority="0" />
+      <Item value="HorizontalAlignment`0" priority="0" />
+      <Item value="StackPanel" priority="0" />
+      <Item value="ImageSource`0" priority="0" />
+      <Item value="ImageController" priority="0" />
+      <Item value="ImageController`0" priority="1" />
+      <Item value="Uri" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Drawing.Bitmap">
+      <Item value="Height" priority="7" />
+      <Item value="Width" priority="6" />
+      <Item value="GetPixel`0" priority="0" />
+      <Item value="Save`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Drawing.Color">
+      <Item value="R" priority="5" />
+      <Item value="G" priority="2" />
+      <Item value="B" priority="2" />
+      <Item value="ToArgb`0" priority="1" />
+      <Item value="A" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Octree_ZGTR_WPFApp.Engine.HelperModule">
+      <Item value="ConvertIntToBin`0" priority="3" />
+      <Item value="ConvertBinToInt`0" priority="8" />
+      <Item value="Get3BitsString`0" priority="1" />
+      <Item value="GetColorString`0" priority="0" />
+      <Item value="GetColor`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Octree_ZGTR_WPFApp.Engine.Octree.Node">
+      <Item value="_level" priority="7" />
+      <Item value="_binaryID" priority="5" />
+      <Item value="Children" priority="62" />
+      <Item value="BinaryID" priority="11" />
+      <Item value="Level" priority="17" />
+      <Item value="BuildChildrenArr`0" priority="0" />
+      <Item value="_children" priority="2" />
+      <Item value="_octree" priority="2" />
+      <Item value="Octree" priority="0" />
+      <Item value="_baseNode" priority="2" />
+      <Item value="SpawnChildNode`0" priority="0" />
+      <Item value="ChildrenAvailable" priority="10" />
+      <Item value="_binaryPath" priority="4" />
+      <Item value="BinaryPath" priority="0" />
+      <Item value="PositionInTable" priority="1" />
+      <Item value="_positionInTable" priority="0" />
+      <Item value="Collapse`0" priority="1" />
+      <Item value="Red" priority="0" />
+      <Item value="Color" priority="2" />
+      <Item value="_encoding" priority="0" />
+      <Item value="NodeInList" priority="0" />
+      <Item value="_isDead" priority="0" />
+      <Item value="IsDead" priority="1" />
+      <Item value="KillNode`0" priority="0" />
+      <Item value="IndexInTable" priority="0" />
+      <Item value="IndexInListOfLists" priority="1" />
+      <Item value="_isLeaf" priority="0" />
+      <Item value="IsLeaf" priority="5" />
+      <Item value="NumOfVisiting" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.String">
+      <Item value="Equals`0" priority="3" />
+      <Item value="Format`0" priority="0" />
+      <Item value="IsNullOrEmpty`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.IEnumerable`1">
+      <Item value="Select`2" priority="0" />
+      <Item value="Single`1" priority="5" />
+      <Item value="ToList`1" priority="17" />
+      <Item value="Min`2" priority="8" />
+      <Item value="Count`1" priority="0" />
+      <Item value="Where`1" priority="1" />
+      <Item value="First`1" priority="1" />
+      <Item value="OrderBy`2" priority="0" />
+      <Item value="ToString`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Octree_ZGTR_WPFApp.Engine.Octree.Octree">
+      <Item value="_leavesNum" priority="2" />
+      <Item value="_baseNode" priority="2" />
+      <Item value="BaseNode" priority="3" />
+      <Item value="LeavesNum" priority="0" />
+      <Item value="GetIndexColorForPixel`0" priority="0" />
+      <Item value="LoopThroughTree`0" priority="0" />
+      <Item value="_imageURI" priority="0" />
+      <Item value="ImageMatrix" priority="0" />
+      <Item value="_listOfLevels" priority="12" />
+      <Item value="NumOfLeavesWanted" priority="1" />
+      <Item value="_encodingConverter" priority="0" />
+      <Item value="EncodingConverter" priority="4" />
+      <Item value="Collapse`0" priority="0" />
+      <Item value="CollapseTree`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Media.Colors">
+      <Item value="Transparent" priority="0" />
+      <Item value="Red" priority="0" />
+      <Item value="DarkGray" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.List`1">
+      <Item value="Count" priority="31" />
+      <Item value="Add`0" priority="17" />
+      <Item value="AddRange`0" priority="0" />
+      <Item value="Min`2" priority="3" />
+      <Item value="ToArray`0" priority="0" />
+      <Item value="Max`2" priority="0" />
+      <Item value="IndexOf`0" priority="1" />
+      <Item value="Contains`0" priority="1" />
+      <Item value="RemoveAll`0" priority="1" />
+      <Item value="Select`2" priority="6" />
+      <Item value="Where`1" priority="8" />
+      <Item value="Remove`0" priority="9" />
+      <Item value="Clear`0" priority="7" />
+      <Item value="ForEach`0" priority="3" />
+      <Item value="ToList`1" priority="0" />
+      <Item value="First`1" priority="2" />
+      <Item value="Last`1" priority="0" />
+      <Item value="Find`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Drawing.Color">
+      <Item value="FromArgb`0" priority="6" />
+      <Item value="Green" priority="0" />
+      <Item value="Black" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.String">
+      <Item value="Substring`0" priority="2" />
+      <Item value="Replace`0" priority="0" />
+      <Item value="Length" priority="2" />
+      <Item value="ToString`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Text.StringBuilder">
+      <Item value="ToString`0" priority="3" />
+      <Item value="Append`0" priority="0" />
+      <Item value="Insert`0" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Console">
+      <Item value="Write`0" priority="2" />
+      <Item value="Read`0" priority="0" />
+      <Item value="WriteLine`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.Dictionary`2">
+      <Item value="Add`0" priority="3" />
+      <Item value="ContainsKey`0" priority="0" />
+      <Item value="ToList`1" priority="0" />
+      <Item value="Values" priority="2" />
+      <Item value="Indexer" priority="0" />
+      <Item value="Count" priority="1" />
+      <Item value="Remove`0" priority="0" />
+      <Item value="Keys" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Octree_ZGTR_WPFApp.Engine.Octree.ColorTable">
+      <Item value="AddToTable`0" priority="0" />
+      <Item value="_octree" priority="4" />
+      <Item value="_table" priority="1" />
+      <Item value="RetriveImageFromTable`0" priority="0" />
+      <Item value="Table" priority="2" />
+      <Item value="GetClosestColorIndex`0" priority="0" />
+      <Item value="RetriveImageFromTableToIndexedArr`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.Image">
+      <Item value="Width" priority="3" />
+      <Item value="Height" priority="2" />
+      <Item value="Margin" priority="0" />
+      <Item value="VerticalAlignment" priority="0" />
+      <Item value="HorizontalAlignment" priority="0" />
+      <Item value="Uid" priority="0" />
+      <Item value="Source" priority="4" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Int32">
+      <Item value="CompareTo`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Math">
+      <Item value="Abs`0" priority="2" />
+      <Item value="Pow`0" priority="1" />
+      <Item value="Sqrt`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Char">
+      <Item value="ToString`0" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.DateTime">
+      <Item value="Now" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.TimeSpan">
+      <Item value="Milliseconds" priority="0" />
+      <Item value="TotalSeconds" priority="2" />
+      <Item value="TotalMinutes" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.DateTime">
+      <Item value="AddSeconds`0" priority="1" />
+      <Item value="Second" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Octree_ZGTR_WPFApp.Engine.Octree.Octree">
+      <Item value="TotalTimeCollapse" priority="2" />
+      <Item value="S1`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Octree_ZGTR_WPFApp.Engine.Octree.EncodingPackage.EncodingConverter">
+      <Item value="_numOfLeafes" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.KeyValuePair`2">
+      <Item value="Value" priority="1" />
+      <Item value="Key" priority="4" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.Dictionary`2+ValueCollection">
+      <Item value="Count" priority="0" />
+      <Item value="ToList`1" priority="1" />
+      <Item value="Select`2" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Runtime.InteropServices.Marshal">
+      <Item value="ZeroFreeBSTR`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.Dictionary`2+KeyCollection">
+      <Item value="Min`2" priority="0" />
+      <Item value="OrderBy`2" priority="0" />
+      <Item value="OrderByDescending`2" priority="0" />
+      <Item value="First`1" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Linq.IOrderedEnumerable`1">
+      <Item value="ToString`0" priority="0" />
+      <Item value="ToList`1" priority="0" />
+      <Item value="Select`2" priority="0" />
+      <Item value="First`1" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.ArrayList">
+      <Item value="Add`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.Research.DynamicDataDisplay.LineGraph">
+      <Item value="Plotter" priority="2" />
+      <Item value="PointToScreen`0" priority="1" />
+      <Item value="AddToPlotter`0" priority="3" />
+      <Item value="PointFromScreen`0" priority="0" />
+      <Item value="DataSource" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.Research.DynamicDataDisplay.ChartPlotter">
+      <Item value="AddLineGraph`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.Research.DynamicDataDisplay.DataSources.IPointDataSource">
+      <Item value="GetEnumerator`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Octree_ZGTR_WPFApp.Engine.Octree.OctreeTypes.AbstractOctree.Octree">
+      <Item value="NumOfLeavesWanted" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Octree_ZGTR_WPFApp.Engine.OctreeTree.OctreeTypes.AbstractOctree.Octree">
+      <Item value="S1`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Octree_ZGTR_WPFApp.Engine.OctreeTree.Node">
+      <Item value="NumOfVisiting" priority="2" />
+      <Item value="Children" priority="3" />
+      <Item value="IsLeaf" priority="2" />
+      <Item value="Level" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.Expander">
+      <Item value="Header" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Media.Imaging.BitmapImage">
+      <Item value="Width" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Octree_ZGTR_WPFApp.Engine.OctreeTree.MappingFunctions.ColorComponent">
+      <Item value="_colorComponentType" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Octree_ZGTR_WPFApp.Engine.OctreeTree.MappingFunctions.IMappingFunction">
+      <Item value="GetDistance`0" priority="4" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Octree_ZGTR_WPFApp.MainWindow">
+      <Item value="rbc1" priority="0" />
+      <Item value="imageInput" priority="0" />
+      <Item value="stackPanelHorizontal" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.RadioButton">
+      <Item value="IsChecked" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.TextBox">
+      <Item value="Text" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Int32">
+      <Item value="Parse`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Octree_ZGTR_WPFApp.Engine.OctreeTree.MappingFunctions.ColorComponentType">
+      <Item value="Red" priority="0" />
+      <Item value="Green" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Octree_ZGTR_WPFApp.Engine.GUI.GUIController">
+      <Item value="GetMappingFuncitonType`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Octree_ZGTR_WPFApp.Engine.OctreeTree.OctreeTypes.AbstractOctree.Octree">
+      <Item value="BuildOctreeFromImageFile`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Octree_ZGTR_WPFApp.Engine.GUI.ImageContainer">
+      <Item value="Width" priority="1" />
+      <Item value="Children" priority="1" />
+      <Item value="Height" priority="0" />
+      <Item value="_image" priority="6" />
+      <Item value="HorizontalAlignment" priority="0" />
+      <Item value="VerticalAlignment" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.UIElementCollection">
+      <Item value="Add`0" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.Border">
+      <Item value="BorderThickness" priority="0" />
+      <Item value="Padding" priority="0" />
+      <Item value="BorderBrush" priority="0" />
+      <Item value="Child" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.StackPanel">
+      <Item value="Children" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.Button">
+      <Item value="Click" priority="0" />
+      <Item value="Content" priority="0" />
+      <Item value="Width" priority="0" />
+      <Item value="Height" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.HorizontalAlignment">
+      <Item value="Center" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Octree_ZGTR_WPFApp.Engine.ImageController.ImageController">
+      <Item value="ConvertToWPFBitmapImage`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.Win32.SaveFileDialog">
+      <Item value="FileName" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>
